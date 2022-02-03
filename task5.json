@@ -1,0 +1,2200 @@
+[
+    {
+        "name": "Toy Story 4",
+        "rating": "G",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "JoshCooley"
+        ],
+        "producer": [
+            " MarkNielsen",
+            "JonasRivera",
+            "GalynSusman"
+        ],
+        "release(steaming)": "Oct 1,2019",
+        "runtime": 100
+    },
+    {
+        "name": "Spider-Man: Into the Spider-Verse",
+        "rating": "PG",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "BobPersichetti",
+            "PeterRamsey",
+            "RodneyRothman"
+        ],
+        "producer": [
+            " AviArad",
+            "AmyPascal",
+            "PhilLord",
+            "ChrisMiller",
+            "ChristinaSteinberg"
+        ],
+        "release(steaming)": "Mar 19,2019",
+        "runtime": 117
+    },
+    {
+        "name": "Inside Out",
+        "rating": "PG",
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Comedy",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "PeteDocter"
+        ],
+        "producer": [
+            " JonasRivera"
+        ],
+        "release(steaming)": "Nov 3,2015",
+        "runtime": 95
+    },
+    {
+        "name": "Coco",
+        "rating": "PG",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Music",
+            "Comedy",
+            "Kids&family"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "LeeUnkrich"
+        ],
+        "producer": [
+            " DarlaK.Anderson"
+        ],
+        "release(steaming)": "Feb 13,2018",
+        "runtime": 109
+    },
+    {
+        "name": "Snow White and the Seven Dwarfs",
+        "rating": "G",
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "DavidHand"
+        ],
+        "producer": [
+            " WaltDisney"
+        ],
+        "release(steaming)": "Nov 16,2004",
+        "runtime": 80
+    },
+    {
+        "name": "Soul",
+        "rating": "PG",
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Comedy",
+            "Adventure"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "PeteDocter"
+        ],
+        "producer": [
+            " DanaLeighMurray"
+        ],
+        "release(steaming)": "Dec 25,2020",
+        "runtime": 100
+    },
+    {
+        "name": "Incredibles 2",
+        "rating": "PG",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "BradBird"
+        ],
+        "producer": [
+            " JohnWalker",
+            "NicoleParadisGrindle"
+        ],
+        "release(steaming)": "Nov 6,2018",
+        "runtime": 118
+    },
+    {
+        "name": "Zootopia",
+        "rating": "PG",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "ByronHoward",
+            "RichMoore"
+        ],
+        "producer": [
+            " ClarkSpencer"
+        ],
+        "release(steaming)": "Jun 7,2016",
+        "runtime": 108
+    },
+    {
+        "name": "Paddington 2",
+        "rating": "PG",
+        "genre": [
+            "Adventure",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "PaulKing"
+        ],
+        "producer": [
+            " DavidHeyman"
+        ],
+        "release(steaming)": "Apr 24,2018",
+        "runtime": 103
+    },
+    {
+        "name": "Up",
+        "rating": "PG",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "PeteDocter",
+            "BobPeterson"
+        ],
+        "producer": [
+            " JonasRivera"
+        ],
+        "release(steaming)": "Nov 10,2009",
+        "runtime": 89
+    },
+    {
+        "name": "Toy Story 3",
+        "rating": "G",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "LeeUnkrich"
+        ],
+        "producer": [
+            " DarlaK.Anderson"
+        ],
+        "release(steaming)": "Nov 2,2010",
+        "runtime": 102
+    },
+    {
+        "name": "Toy Story 2",
+        "rating": "G",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "AshBrannon",
+            "JohnLasseter",
+            "LeeUnkrich"
+        ],
+        "producer": [
+            " KarenRobertJackson",
+            "HelenePlotkin"
+        ],
+        "release(steaming)": "Mar 23,2010",
+        "runtime": 92
+    },
+    {
+        "name": "Finding Dory",
+        "rating": "PG",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "AndrewStanton"
+        ],
+        "producer": [
+            " LindseyCollins"
+        ],
+        "release(steaming)": "Nov 15,2016",
+        "runtime": 103
+    },
+    {
+        "name": "Finding Nemo",
+        "rating": "G",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "AndrewStanton"
+        ],
+        "producer": [
+            " GrahamWalters"
+        ],
+        "release(steaming)": "Nov 4,2003",
+        "runtime": 100
+    },
+    {
+        "name": "Pinocchio",
+        "rating": "G",
+        "genre": [
+            "Fantasy",
+            "Kids&family",
+            "Animation"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "BenSharpsteen",
+            "HamiltonLuske"
+        ],
+        "producer": [
+            " WaltDisney"
+        ],
+        "release(steaming)": "Dec 3,2002",
+        "runtime": 87
+    },
+    {
+        "name": "The LEGO Movie",
+        "rating": "PG",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "PhilLord",
+            "ChrisMiller"
+        ],
+        "producer": [
+            " DanLin",
+            "RoyLee"
+        ],
+        "release(steaming)": "Jun 17,2014",
+        "runtime": 95
+    },
+    {
+        "name": "Moana",
+        "rating": "PG",
+        "genre": [
+            "Musical",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "JohnMusker",
+            "RonClements"
+        ],
+        "producer": [
+            " OsnatShurer"
+        ],
+        "release(steaming)": "Mar 7,2017",
+        "runtime": 113
+    },
+    {
+        "name": "Toy Story",
+        "rating": "G",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "JohnLasseter"
+        ],
+        "producer": [
+            " RalphGuggenheim",
+            "BonnieArnold"
+        ],
+        "release(steaming)": "Mar 23,2010",
+        "runtime": 80
+    },
+    {
+        "name": "Isle of Dogs",
+        "rating": "PG-13",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "WesAnderson"
+        ],
+        "producer": [
+            " WesAnderson",
+            "ScottRudin",
+            "StevenRales",
+            "JeremyDawson"
+        ],
+        "release(steaming)": "Jul 17,2018",
+        "runtime": 101
+    },
+    {
+        "name": "Kubo and the Two Strings",
+        "rating": "PG",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "TravisKnight"
+        ],
+        "producer": [
+            " ArianneSutner",
+            "TravisKnight"
+        ],
+        "release(steaming)": "Nov 22,2016",
+        "runtime": 102
+    },
+    {
+        "name": "Wolfwalkers",
+        "rating": "PG",
+        "genre": [
+            "Fantasy",
+            "Adventure",
+            "Animation"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "TommMoore",
+            "RossStewart"
+        ],
+        "producer": [
+            " TommMoore",
+            "St\u00e9phanRoelants",
+            "NoraTwomey",
+            "PaulYoung"
+        ],
+        "release(steaming)": "Dec 11,2020",
+        "runtime": 103
+    },
+    {
+        "name": "How to Train Your Dragon",
+        "rating": "PG",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "ChristopherSanders",
+            "DeanDeBlois"
+        ],
+        "producer": [
+            " BonnieArnold"
+        ],
+        "release(steaming)": "Aug 17,2010",
+        "runtime": 98
+    },
+    {
+        "name": "Shaun the Sheep Movie",
+        "rating": "PG",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "MarkBurton",
+            "RichardStarzak"
+        ],
+        "producer": [
+            " JulieLockhart",
+            "PaulKewley"
+        ],
+        "release(steaming)": "Nov 24,2015",
+        "runtime": 85
+    },
+    {
+        "name": "WALL-E",
+        "rating": "G",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Sci-fi",
+            "Kids&family"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "AndrewStanton"
+        ],
+        "producer": [
+            " JimMorris"
+        ],
+        "release(steaming)": "Nov 18,2008",
+        "runtime": 97
+    },
+    {
+        "name": "Ratatouille",
+        "rating": "G",
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "BradBird"
+        ],
+        "producer": [
+            " BradLewis"
+        ],
+        "release(steaming)": "Nov 6,2007",
+        "runtime": 111
+    },
+    {
+        "name": "Dumbo",
+        "rating": "G",
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "BenSharpsteen"
+        ],
+        "producer": [
+            " WaltDisney"
+        ],
+        "release(steaming)": "Sep 20,2011",
+        "runtime": 64
+    },
+    {
+        "name": "Raya and the Last Dragon",
+        "rating": "PG",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "DonHall",
+            "CarlosL\u00f3pezEstrada"
+        ],
+        "producer": [
+            " OsnatShurer",
+            "PeterDelVecho"
+        ],
+        "release(steaming)": "Mar 5,2021",
+        "runtime": 108
+    },
+    {
+        "name": "The Incredibles",
+        "rating": "PG",
+        "genre": [
+            "Comedy",
+            "Animation",
+            "Kids&family",
+            "Adventure"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "BradBird"
+        ],
+        "producer": [
+            " JohnLasseter",
+            "JohnWalker"
+        ],
+        "release(steaming)": "Mar 15,2005",
+        "runtime": 115
+    },
+    {
+        "name": "My Life as a Zucchini",
+        "rating": "PG-13",
+        "genre": [
+            "Animation",
+            "Comedy",
+            "Drama"
+        ],
+        "language": [
+            "French"
+        ],
+        "director": [
+            "ClaudeBarras"
+        ],
+        "producer": [
+            " MarcBonny",
+            "ArmelleGlorennec",
+            "PaulineGygax",
+            "MaxKarli"
+        ],
+        "release(steaming)": "May 23,2017",
+        "runtime": 66
+    },
+    {
+        "name": "Only Yesterday",
+        "genre": [
+            "Anime",
+            "Drama"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "director": [
+            "IsaoTakahata"
+        ],
+        "producer": [
+            " YasuyoshiTokuma"
+        ],
+        "release(steaming)": "Jul 5,2016",
+        "runtime": 118
+    },
+    {
+        "name": "The LEGO Batman Movie",
+        "rating": "PG",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "ChrisMcKay"
+        ],
+        "producer": [
+            " DanLin",
+            "PhilLord",
+            "ChrisMiller",
+            "RoyLee"
+        ],
+        "release(steaming)": "Jun 13,2017",
+        "runtime": 106
+    },
+    {
+        "name": "Chicken Run",
+        "rating": "G",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "PeterLord",
+            "NickPark"
+        ],
+        "producer": [
+            " PeterLord",
+            "NickPark",
+            "DavidSproxton"
+        ],
+        "release(steaming)": "May 22,2006",
+        "runtime": 85
+    },
+    {
+        "name": "One Hundred and One Dalmatians",
+        "rating": "G",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "WolfgangReitherman",
+            "HamiltonLuske",
+            "ClydeGeronimi"
+        ],
+        "producer": [
+            " WaltDisney"
+        ],
+        "release(steaming)": "Mar 4,2008",
+        "runtime": 79
+    },
+    {
+        "name": "Beauty and the Beast",
+        "rating": "G",
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "GaryTrousdale",
+            "KirkWise"
+        ],
+        "producer": [
+            " DonHahn"
+        ],
+        "release(steaming)": "Aug 6,2002",
+        "runtime": 84
+    },
+    {
+        "name": "The Nightmare Before Christmas",
+        "rating": "PG",
+        "genre": [
+            "Fantasy",
+            "Animation",
+            "Other",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "HenrySelick"
+        ],
+        "producer": [
+            " TimBurton",
+            "DeniseDiNovi",
+            "KathleenGavin"
+        ],
+        "release(steaming)": "Oct 3,2000",
+        "runtime": 75
+    },
+    {
+        "name": "Onward",
+        "rating": "PG",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "DanScanlon"
+        ],
+        "producer": [
+            " KoriRae"
+        ],
+        "release(steaming)": "Mar 6,2020",
+        "runtime": 103
+    },
+    {
+        "name": "Monsters, Inc.",
+        "rating": "G",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "PeteDocter"
+        ],
+        "producer": [
+            " DarlaK.Anderson"
+        ],
+        "release(steaming)": "Sep 17,2002",
+        "runtime": 92
+    },
+    {
+        "name": "Anomalisa",
+        "rating": "R",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Animation"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "CharlieKaufman",
+            "DukeJohnson"
+        ],
+        "producer": [
+            " RosaTran",
+            "DukeJohnson",
+            "CharlieKaufman",
+            "DinoStamatopoulos"
+        ],
+        "release(steaming)": "May 3,2016",
+        "runtime": 90
+    },
+    {
+        "name": "Spirited Away",
+        "rating": "PG",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Fantasy"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "director": [
+            "HayaoMiyazaki",
+            "KirkWise"
+        ],
+        "producer": [
+            " DonaldW.Ernst",
+            "ToshioSuzuki"
+        ],
+        "release(steaming)": "Apr 15,2003",
+        "runtime": 125
+    },
+    {
+        "name": "Grave of the Fireflies",
+        "genre": [
+            "War",
+            "Anime",
+            "Drama"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "director": [
+            "IsaoTakahata"
+        ],
+        "producer": [
+            " ToruHara"
+        ],
+        "release(steaming)": "Mar 11,2017",
+        "runtime": 88
+    },
+    {
+        "name": "The Lion King",
+        "rating": "G",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Musical"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "RogerAllers",
+            "RobMinkoff"
+        ],
+        "producer": [
+            " DonHahn"
+        ],
+        "release(steaming)": "Oct 4,2011",
+        "runtime": 87
+    },
+    {
+        "name": "Song of the Sea",
+        "rating": "PG",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "TommMoore"
+        ],
+        "producer": [
+            " TommMoore",
+            "RossMurray",
+            "PaulYoung",
+            "St\u00e9phanRoelants",
+            "SergeUme",
+            "IsabelleTruc",
+            "Cl\u00e9mentCalvet",
+            "JeremieFajner",
+            "FrederikVillumsen",
+            "ClausToksvigKjaer"
+        ],
+        "release(steaming)": "Mar 17,2015",
+        "runtime": 94
+    },
+    {
+        "name": "Your Name",
+        "rating": "PG",
+        "genre": [
+            "Anime",
+            "Romance",
+            "Fantasy"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "director": [
+            "MakotoShinkai"
+        ],
+        "producer": [
+            " NoritakaKawaguchi",
+            "GenkiKawamura"
+        ],
+        "release(steaming)": "Jan 31,2018",
+        "runtime": 106
+    },
+    {
+        "name": "The Iron Giant",
+        "rating": "PG",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "BradBird"
+        ],
+        "producer": [
+            " DesMcAnuff",
+            "AllisonAbbate"
+        ],
+        "release(steaming)": "Sep 27,2005",
+        "runtime": 86
+    },
+    {
+        "name": "Tower",
+        "genre": [
+            "Documentary"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "KeithMaitland"
+        ],
+        "producer": [
+            " MeganGilbride",
+            "SusanThomson"
+        ],
+        "release(steaming)": "Jan 10,2017",
+        "runtime": 98
+    },
+    {
+        "name": "Fantasia",
+        "rating": "G",
+        "genre": [
+            "Animation",
+            "Fantasy",
+            "Kids&family"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "JamesAlgar",
+            "SamuelArmstrong",
+            "FordBeebe",
+            "NormanFerguson",
+            "JimHandley",
+            "T.Hee",
+            "WilfredJackson",
+            "HamiltonLuske",
+            "BillRoberts",
+            "PaulSatterfield"
+        ],
+        "producer": [
+            " WaltDisney"
+        ],
+        "release(steaming)": "Feb 20,2007",
+        "runtime": 120
+    },
+    {
+        "name": "Who Framed Roger Rabbit",
+        "rating": "PG",
+        "genre": [
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "RobertZemeckis"
+        ],
+        "producer": [
+            " RobertWatts",
+            "FrankMarshall"
+        ],
+        "release(steaming)": "Mar 25,2003",
+        "runtime": 104
+    },
+    {
+        "name": "Waltz With Bashir",
+        "rating": "R",
+        "genre": [
+            "Documentary",
+            "Animation"
+        ],
+        "language": [
+            "Hebrew"
+        ],
+        "director": [
+            "AriFolman"
+        ],
+        "producer": [
+            " AriFolman",
+            "SergeLalou",
+            "GerhardMeixner",
+            "RomanPaul"
+        ],
+        "release(steaming)": "Jun 23,2009",
+        "runtime": 90
+    },
+    {
+        "name": "How to Train Your Dragon: The Hidden World",
+        "rating": "PG",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "DeanDeBlois"
+        ],
+        "producer": [
+            " BradLewis",
+            "BonnieArnold"
+        ],
+        "release(steaming)": "May 21,2019",
+        "runtime": 104
+    },
+    {
+        "name": "Luca",
+        "rating": "PG",
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Comedy",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "EnricoCasarosa"
+        ],
+        "producer": [
+            " AndreaWarren"
+        ],
+        "release(steaming)": "Jun 18,2021",
+        "runtime": 100
+    },
+    {
+        "name": "Persepolis",
+        "rating": "PG-13",
+        "genre": [
+            "Animation",
+            "Drama"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "VincentParonnaud",
+            "MarjaneSatrapi"
+        ],
+        "release(steaming)": "Jun 23,2008",
+        "runtime": 95
+    },
+    {
+        "name": "Wallace & Gromit: The Curse of the Were-Rabbit",
+        "director": [
+            "SteveBox"
+        ]
+    },
+    {
+        "name": "Fantastic Mr. Fox",
+        "rating": "PG",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "WesAnderson"
+        ],
+        "producer": [
+            " WesAnderson",
+            "ScottRudin",
+            "AllisonAbbate",
+            "JeremyDawson"
+        ],
+        "release(steaming)": "Mar 23,2010",
+        "runtime": 88
+    },
+    {
+        "name": "Yellow Submarine",
+        "rating": "G",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Musical"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "GeorgeDunning"
+        ],
+        "release(steaming)": "Jun 5,2012",
+        "runtime": 85
+    },
+    {
+        "name": "Kiki's Delivery Service",
+        "rating": "G",
+        "genre": [
+            "Adventure",
+            "Kids&family",
+            "Anime"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "director": [
+            "HayaoMiyazaki"
+        ],
+        "producer": [
+            " JaneSchonberger",
+            "HayaoMiyazaki"
+        ],
+        "release(steaming)": "Mar 2,2010",
+        "runtime": 103
+    },
+    {
+        "name": "Ernest & C\u00e9lestine",
+        "director": [
+            "VincentPatar"
+        ]
+    },
+    {
+        "name": "Aladdin",
+        "rating": "G",
+        "genre": [
+            "Musical",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "RonClements",
+            "JohnMusker"
+        ],
+        "producer": [
+            " RonClements",
+            "JohnMusker"
+        ],
+        "release(steaming)": "Oct 13,2015",
+        "runtime": 90
+    },
+    {
+        "name": "The Secret World of Arrietty",
+        "rating": "G",
+        "genre": [
+            "Adventure",
+            "Kids&family",
+            "Anime",
+            "Fantasy"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "director": [
+            "HiromasaYonebayashi",
+            "GaryRydstrom"
+        ],
+        "producer": [
+            " ToshioSuzuki"
+        ],
+        "release(steaming)": "May 22,2012",
+        "runtime": 95
+    },
+    {
+        "name": "Ghost in the Shell",
+        "genre": [
+            "Sci-fi",
+            "Anime",
+            "Action"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "director": [
+            "MamoruOshii"
+        ],
+        "producer": [
+            " MitsuhisaIshikawa",
+            "KenIyadomi",
+            "KenMatsumoto",
+            "YoshimasaMizuo"
+        ],
+        "release(steaming)": "Dec 15,2010",
+        "runtime": 85
+    },
+    {
+        "name": "Frozen",
+        "rating": "PG",
+        "genre": [
+            "Musical",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "ChrisBuck",
+            "JenniferLee"
+        ],
+        "producer": [
+            " PeterDelVecho"
+        ],
+        "release(steaming)": "Mar 18,2014",
+        "runtime": 102
+    },
+    {
+        "name": "The Red Turtle",
+        "rating": "PG",
+        "genre": [
+            "Adventure",
+            "Animation"
+        ],
+        "language": [
+            "Unknown"
+        ],
+        "director": [
+            "MichaelDudokdeWit"
+        ],
+        "producer": [
+            " Val\u00e9rieSchermann",
+            "ChristopheJankovic"
+        ],
+        "release(steaming)": "May 2,2017",
+        "runtime": 80
+    },
+    {
+        "name": "Ralph Breaks the Internet",
+        "rating": "PG",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "PhilJohnston",
+            "RichMoore"
+        ],
+        "producer": [
+            " ClarkSpencer"
+        ],
+        "release(steaming)": "Feb 12,2019",
+        "runtime": 112
+    },
+    {
+        "name": "Long Way North",
+        "rating": "PG",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Drama"
+        ],
+        "language": [
+            "French"
+        ],
+        "director": [
+            "R\u00e9miChay\u00e9"
+        ],
+        "producer": [
+            " RonDyens",
+            "HenriMagalon"
+        ],
+        "release(steaming)": "Jan 3,2017",
+        "runtime": 81
+    },
+    {
+        "name": "Coraline",
+        "rating": "PG",
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "HenrySelick"
+        ],
+        "producer": [
+            " BillMechanic",
+            "ClaireJennings",
+            "HenrySelick",
+            "MarySandell"
+        ],
+        "release(steaming)": "Jul 21,2009",
+        "runtime": 100
+    },
+    {
+        "name": "Big Hero 6",
+        "rating": "PG",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Sci-fi",
+            "Kids&family"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "DonHall",
+            "ChrisWilliams"
+        ],
+        "producer": [
+            " RoyConli"
+        ],
+        "release(steaming)": "Feb 24,2015",
+        "runtime": 102
+    },
+    {
+        "name": "Liyana",
+        "genre": [
+            "Documentary"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "AaronKopp",
+            "AmandaKopp"
+        ],
+        "producer": [
+            " DavisCoombe",
+            "SakheniDlamini",
+            "DanielJunge",
+            "AaronKopp",
+            "AmandaKopp"
+        ],
+        "release(steaming)": "Nov 19,2019",
+        "runtime": 77
+    },
+    {
+        "name": "I Lost My Body",
+        "genre": [
+            "Animation",
+            "Fantasy",
+            "Drama"
+        ],
+        "language": [
+            "French"
+        ],
+        "director": [
+            "J\u00e9r\u00e9myClapin"
+        ],
+        "producer": [
+            " MarcduPontavice",
+            "CamilleWiplier",
+            "LucieBolze"
+        ],
+        "release(steaming)": "Nov 29,2019",
+        "runtime": 81
+    },
+    {
+        "name": "The Breadwinner",
+        "rating": "PG-13",
+        "genre": [
+            "Animation",
+            "Drama"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "NoraTwomey"
+        ],
+        "producer": [
+            " AngelinaJolie",
+            "AnthonyLeo",
+            "TommMoore",
+            "AndrewRosen",
+            "PaulYoung"
+        ],
+        "release(steaming)": "Feb 17,2018",
+        "runtime": 94
+    },
+    {
+        "name": "A Shaun the Sheep Movie: Farmageddon",
+        "rating": "G",
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Comedy",
+            "Adventure",
+            "Sci-fi"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "RichardPhelan",
+            "WillBecher"
+        ],
+        "producer": [
+            " PaulKewley"
+        ],
+        "release(steaming)": "Feb 14,2020",
+        "runtime": 87
+    },
+    {
+        "name": "The Secret of NIMH",
+        "rating": "G",
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "DonBluth"
+        ],
+        "producer": [
+            " GaryGoldman",
+            "DonBluth"
+        ],
+        "release(steaming)": "Nov 16,2004",
+        "runtime": 82
+    },
+    {
+        "name": "Bambi",
+        "rating": "G",
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "DavidHand"
+        ],
+        "producer": [
+            " WaltDisney"
+        ],
+        "release(steaming)": "Apr 29,2008",
+        "runtime": 70
+    },
+    {
+        "name": "The Little Mermaid",
+        "rating": "G",
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "RonClements",
+            "JohnMusker"
+        ],
+        "producer": [
+            " HowardAshman",
+            "JohnMusker"
+        ],
+        "release(steaming)": "Oct 1,2013",
+        "runtime": 82
+    },
+    {
+        "name": "How to Train Your Dragon 2",
+        "rating": "PG",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "DeanDeBlois",
+            "TomOwens"
+        ],
+        "producer": [
+            " BonnieArnold"
+        ],
+        "release(steaming)": "Nov 11,2014",
+        "runtime": 102
+    },
+    {
+        "name": "The Triplets of Belleville",
+        "rating": "PG-13",
+        "genre": [
+            "Animation",
+            "Comedy"
+        ],
+        "language": [
+            "French"
+        ],
+        "director": [
+            "SylvainChomet"
+        ],
+        "producer": [
+            " DidierBrunner"
+        ],
+        "release(steaming)": "May 4,2004",
+        "runtime": 82
+    },
+    {
+        "name": "Lady and the Tramp",
+        "rating": "G",
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "ClydeGeronimi",
+            "WilfredJackson",
+            "HamiltonLuske"
+        ],
+        "producer": [
+            " WaltDisney"
+        ],
+        "release(steaming)": "Feb 7,2012",
+        "runtime": 75
+    },
+    {
+        "name": "Princess Mononoke",
+        "rating": "PG-13",
+        "genre": [
+            "Adventure",
+            "Anime",
+            "Fantasy"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "director": [
+            "HayaoMiyazaki"
+        ],
+        "producer": [
+            " ToshioSuzuki"
+        ],
+        "release(steaming)": "Jul 20,2000",
+        "runtime": 133
+    },
+    {
+        "name": "My Neighbor Totoro",
+        "rating": "G",
+        "genre": [
+            "Anime",
+            "Fantasy"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "director": [
+            "HayaoMiyazaki"
+        ],
+        "release(steaming)": "Feb 28,2006",
+        "runtime": 87
+    },
+    {
+        "name": "Arthur Christmas",
+        "rating": "PG",
+        "genre": [
+            "Other",
+            "Kids&family",
+            "Comedy",
+            "Animation"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "SarahSmith"
+        ],
+        "producer": [
+            " PeterLord",
+            "DavidSproxton",
+            "CarlaShelley",
+            "StevePegram"
+        ],
+        "release(steaming)": "Nov 6,2012",
+        "runtime": 100
+    },
+    {
+        "name": "Antz",
+        "rating": "PG",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Romance",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "EricDarnell",
+            "TimJohnson"
+        ],
+        "producer": [
+            " BradLewis",
+            "AronWarner",
+            "PattyWooton"
+        ],
+        "release(steaming)": "Jun 7,2005",
+        "runtime": 87
+    },
+    {
+        "name": "The LEGO Movie 2: The Second Part",
+        "rating": "PG",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "MikeMitchell"
+        ],
+        "producer": [
+            " DanLin",
+            "PhilLord",
+            "ChrisMiller",
+            "RoyLee",
+            "JinkoGotoh"
+        ],
+        "release(steaming)": "May 7,2019",
+        "runtime": 107
+    },
+    {
+        "name": "A Bug's Life",
+        "rating": "G",
+        "genre": [
+            "Comedy",
+            "Animation",
+            "Kids&family",
+            "Adventure"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "JohnLasseter",
+            "AndrewStanton"
+        ],
+        "producer": [
+            " DarlaK.Anderson",
+            "KevinReher"
+        ],
+        "release(steaming)": "Nov 6,2001",
+        "runtime": 96
+    },
+    {
+        "name": "Mary and Max",
+        "genre": [
+            "Animation",
+            "Comedy",
+            "Drama"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "AdamElliot"
+        ],
+        "producer": [
+            " MelanieCoombs"
+        ],
+        "release(steaming)": "Dec 22,2009",
+        "runtime": 92
+    },
+    {
+        "name": "Ponyo",
+        "rating": "G",
+        "genre": [
+            "Adventure",
+            "Anime",
+            "Fantasy"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "director": [
+            "HayaoMiyazaki"
+        ],
+        "producer": [
+            " ToshioSuzuki"
+        ],
+        "release(steaming)": "Mar 2,2010",
+        "runtime": 100
+    },
+    {
+        "name": "Klaus",
+        "rating": "PG",
+        "genre": [
+            "Other",
+            "Comedy",
+            "Animation",
+            "Adventure",
+            "Kids&family"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "SergioPablos"
+        ],
+        "producer": [
+            " JinkoGotoh",
+            "SergioPablos",
+            "MatthewTeevan",
+            "MercedesGamero",
+            "MikelLejarza",
+            "GustavoFerrada"
+        ],
+        "release(steaming)": "Nov 15,2019",
+        "runtime": 98
+    },
+    {
+        "name": "Teen Titans GO! to the Movies",
+        "rating": "PG",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "PeterRidaMichail",
+            "AaronHorvath"
+        ],
+        "producer": [
+            " AaronHorvath",
+            "MichaelJelenic",
+            "PeggyRegan",
+            "PeterRidaMichail",
+            "WillArnett"
+        ],
+        "release(steaming)": "Oct 30,2018",
+        "runtime": 87
+    },
+    {
+        "name": "Bolt",
+        "rating": "PG",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "ChrisWilliams",
+            "ByronHoward"
+        ],
+        "producer": [
+            " ClarkSpencer"
+        ],
+        "release(steaming)": "Mar 22,2009",
+        "runtime": 96
+    },
+    {
+        "name": "Tangled",
+        "rating": "PG",
+        "genre": [
+            "Musical",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "NathanGreno",
+            "ByronHoward"
+        ],
+        "producer": [
+            " RoyConli"
+        ],
+        "release(steaming)": "Mar 29,2011",
+        "runtime": 101
+    },
+    {
+        "name": "Shrek 2",
+        "rating": "PG",
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Comedy",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "AndrewAdamson",
+            "KellyAsbury",
+            "ConradVernon"
+        ],
+        "producer": [
+            " AronWarner",
+            "DavidLipman",
+            "JohnH.Williams"
+        ],
+        "release(steaming)": "Nov 5,2004",
+        "runtime": 92
+    },
+    {
+        "name": "ParaNorman",
+        "rating": "PG",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "ChrisButler",
+            "SamFell"
+        ],
+        "producer": [
+            " ArianneSutner",
+            "TravisKnight"
+        ],
+        "release(steaming)": "Nov 27,2012",
+        "runtime": 96
+    },
+    {
+        "name": "Frankenweenie",
+        "rating": "PG",
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "TimBurton"
+        ],
+        "producer": [
+            " TimBurton",
+            "AllisonAbbate"
+        ],
+        "release(steaming)": "Jan 8,2013",
+        "runtime": 87
+    },
+    {
+        "name": "Shrek",
+        "rating": "PG",
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Comedy",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "AndrewAdamson",
+            "VickyJenson"
+        ],
+        "producer": [
+            " AronWarner",
+            "JohnH.Williams",
+            "JeffreyKatzenberg"
+        ],
+        "release(steaming)": "Aug 19,2003",
+        "runtime": 89
+    },
+    {
+        "name": "James and the Giant Peach",
+        "rating": "PG",
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "HenrySelick"
+        ],
+        "producer": [
+            " TimBurton",
+            "DeniseDiNovi"
+        ],
+        "release(steaming)": "Aug 3,2010",
+        "runtime": 80
+    },
+    {
+        "name": "Rango",
+        "rating": "PG",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "GoreVerbinski"
+        ],
+        "producer": [
+            " GoreVerbinski",
+            "GrahamKing",
+            "JohnB.Carls"
+        ],
+        "release(steaming)": "Jul 15,2011",
+        "runtime": 105
+    },
+    {
+        "name": "The Wind Rises",
+        "rating": "PG-13",
+        "genre": [
+            "Biography",
+            "History",
+            "Anime",
+            "Drama"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "director": [
+            "HayaoMiyazaki",
+            "GaryRydstrom"
+        ],
+        "producer": [
+            " ToshioSuzuki"
+        ],
+        "release(steaming)": "Nov 18,2014",
+        "runtime": 126
+    },
+    {
+        "name": "Missing Link",
+        "rating": "PG",
+        "genre": [
+            "Kids&family",
+            "Comedy",
+            "Animation",
+            "Adventure"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "ChrisButler"
+        ],
+        "producer": [
+            " ArianneSutner",
+            "TravisKnight"
+        ],
+        "release(steaming)": "Jul 9,2019",
+        "runtime": 94
+    },
+    {
+        "name": "The Simpsons Movie",
+        "rating": "PG-13",
+        "genre": [
+            "Animation",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "DavidSilverman"
+        ],
+        "producer": [
+            " JamesL.Brooks",
+            "MattGroening",
+            "AlJean",
+            "MikeScully",
+            "RichardSakai"
+        ],
+        "release(steaming)": "Dec 18,2007",
+        "runtime": 86
+    },
+    {
+        "name": "Boy and the World",
+        "rating": "PG",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family"
+        ],
+        "language": [
+            "Portuguese"
+        ],
+        "director": [
+            "Al\u00eaAbreu"
+        ],
+        "producer": [
+            " FernandaCarvalho",
+            "TitaTessler"
+        ],
+        "release(steaming)": "Jul 5,2016",
+        "runtime": 80
+    },
+    {
+        "name": "The Peanuts Movie",
+        "rating": "G",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "SteveMartino"
+        ],
+        "producer": [
+            " CraigSchulz",
+            "BryanSchulz",
+            "CorneliusUliano",
+            "PaulFeig",
+            "MichaelJ.Travers"
+        ],
+        "release(steaming)": "Mar 8,2016",
+        "runtime": 89
+    },
+    {
+        "name": "When Marnie Was There",
+        "rating": "PG",
+        "genre": [
+            "Mystery&thriller",
+            "Anime",
+            "Kids&family",
+            "Fantasy",
+            "Drama"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "director": [
+            "HiromasaYonebayashi"
+        ],
+        "producer": [
+            " YoshiakiNishimura",
+            "KojiHoshino"
+        ],
+        "release(steaming)": "Oct 6,2015",
+        "runtime": 103
+    },
+    {
+        "name": "Millennium Actress",
+        "rating": "PG",
+        "genre": [
+            "Anime",
+            "Fantasy",
+            "Drama"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "director": [
+            "SatoshiKon"
+        ],
+        "producer": [
+            " TaroMaki"
+        ],
+        "release(steaming)": "Oct 28,2003",
+        "runtime": 87
+    }
+]

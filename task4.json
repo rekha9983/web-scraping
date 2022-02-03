@@ -1,0 +1,29 @@
+{
+    "name": "Spider-Man: Into the Spider-Verse",
+    "rating": "PG",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Kids&family",
+        "Fantasy"
+    ],
+    "language": [
+        "English"
+    ],
+    "director": [
+        "BobPersichetti",
+        "PeterRamsey",
+        "RodneyRothman"
+    ],
+    "producer": [
+        " AviArad",
+        "AmyPascal",
+        "PhilLord",
+        "ChrisMiller",
+        "ChristinaSteinberg"
+    ],
+    "release(steaming)": "Mar 19,2019",
+    "runtime": 117
+}
